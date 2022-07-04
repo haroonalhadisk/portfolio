@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'Evanston Tavern 1846';
+    src: url('/assets/fonts/EvanstonTavern-1846Light.eot');
+    src: local('Evanston Tavern 1846 Light'), local('EvanstonTavern-1846Light'),
+        url('/assets/fonts/EvanstonTavern-1846Light.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/EvanstonTavern-1846Light.woff2') format('woff2'),
+        url('/assets/fonts/EvanstonTavern-1846Light.woff') format('woff'),
+        url('/assets/fonts/EvanstonTavern-1846Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Evanston Tavern 1846 Medium Stencil';
+    src: url('/assets/fonts/EvanstonTavern-1846MdStencil.eot');
+    src: local('Evanston Tavern 1846 Medium Stencil'), local('EvanstonTavern-1846MdStencil'),
+        url('/assets/fonts/EvanstonTavern-1846MdStencil.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/EvanstonTavern-1846MdStencil.woff2') format('woff2'),
+        url('/assets/fonts/EvanstonTavern-1846MdStencil.woff') format('woff'),
+        url('/assets/fonts/EvanstonTavern-1846MdStencil.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Evanston Tavern 1846 Inline';
+    src: url('/assets/fonts/EvanstonTavern-1846RegularInline.eot');
+    src: local('Evanston Tavern 1846 Inline'), local('EvanstonTavern-1846RegularInline'),
+        url('/assets/fonts/EvanstonTavern-1846RegularInline.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/EvanstonTavern-1846RegularInline.woff2') format('woff2'),
+        url('/assets/fonts/EvanstonTavern-1846RegularInline.woff') format('woff'),
+        url('/assets/fonts/EvanstonTavern-1846RegularInline.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Evanston Tavern 1846 Stencil';
+    src: url('/assets/fonts/EvanstonTavern-1846RegStncl.eot');
+    src: local('Evanston Tavern 1846 Stencil'), local('EvanstonTavern-1846RegStncl'),
+        url('/assets/fonts/EvanstonTavern-1846RegStncl.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/EvanstonTavern-1846RegStncl.woff2') format('woff2'),
+        url('/assets/fonts/EvanstonTavern-1846RegStncl.woff') format('woff'),
+        url('/assets/fonts/EvanstonTavern-1846RegStncl.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Evanston Tavern 1846 Medium Inline';
+    src: url('/assets/fonts/EvanstonTavern-1846MdInline.eot');
+    src: local('Evanston Tavern 1846 Medium Inline'), local('EvanstonTavern-1846MdInline'),
+        url('/assets/fonts/EvanstonTavern-1846MdInline.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/EvanstonTavern-1846MdInline.woff2') format('woff2'),
+        url('/assets/fonts/EvanstonTavern-1846MdInline.woff') format('woff'),
+        url('/assets/fonts/EvanstonTavern-1846MdInline.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Evanston Tavern 1846 Light Inline';
+    src: url('/assets/fonts/EvanstonTavern-1846LtInline.eot');
+    src: local('Evanston Tavern 1846 Light Inline'), local('EvanstonTavern-1846LtInline'),
+        url('/assets/fonts/EvanstonTavern-1846LtInline.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/EvanstonTavern-1846LtInline.woff2') format('woff2'),
+        url('/assets/fonts/EvanstonTavern-1846LtInline.woff') format('woff'),
+        url('/assets/fonts/EvanstonTavern-1846LtInline.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Evanston Tavern 1846';
+    src: url('/assets/fonts/EvanstonTavern-1846Medium.eot');
+    src: local('Evanston Tavern 1846 Medium'), local('EvanstonTavern-1846Medium'),
+        url('/assets/fonts/EvanstonTavern-1846Medium.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/EvanstonTavern-1846Medium.woff2') format('woff2'),
+        url('/assets/fonts/EvanstonTavern-1846Medium.woff') format('woff'),
+        url('/assets/fonts/EvanstonTavern-1846Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Evanston Tavern 1846';
+    src: url('/assets/fonts/EvanstonTavern-1846Regular.eot');
+    src: local('Evanston Tavern 1846'), local('EvanstonTavern-1846Regular'),
+        url('/assets/fonts/EvanstonTavern-1846Regular.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/EvanstonTavern-1846Regular.woff2') format('woff2'),
+        url('/assets/fonts/EvanstonTavern-1846Regular.woff') format('woff'),
+        url('/assets/fonts/EvanstonTavern-1846Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Evanston Tavern 1846 Bold Inline';
+    src: url('/assets/fonts/EvanstonTavern-1846BoldInline.eot');
+    src: local('Evanston Tavern 1846 Bold Inline'), local('EvanstonTavern-1846BoldInline'),
+        url('/assets/fonts/EvanstonTavern-1846BoldInline.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/EvanstonTavern-1846BoldInline.woff2') format('woff2'),
+        url('/assets/fonts/EvanstonTavern-1846BoldInline.woff') format('woff'),
+        url('/assets/fonts/EvanstonTavern-1846BoldInline.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Evanston Tavern 1846 Bold Stencil';
+    src: url('/assets/fonts/EvanstonTavern-1846BoldStencil.eot');
+    src: local('Evanston Tavern 1846 Bold Stencil'), local('EvanstonTavern-1846BoldStencil'),
+        url('/assets/fonts/EvanstonTavern-1846BoldStencil.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/EvanstonTavern-1846BoldStencil.woff2') format('woff2'),
+        url('/assets/fonts/EvanstonTavern-1846BoldStencil.woff') format('woff'),
+        url('/assets/fonts/EvanstonTavern-1846BoldStencil.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Evanston Tavern 1846 Light Stencil';
+    src: url('/assets/fonts/EvanstonTavern-1846LtStencil.eot');
+    src: local('Evanston Tavern 1846 Light Stencil'), local('EvanstonTavern-1846LtStencil'),
+        url('/assets/fonts/EvanstonTavern-1846LtStencil.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/EvanstonTavern-1846LtStencil.woff2') format('woff2'),
+        url('/assets/fonts/EvanstonTavern-1846LtStencil.woff') format('woff'),
+        url('/assets/fonts/EvanstonTavern-1846LtStencil.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Evanston Tavern 1846';
+    src: url('/assets/fonts/EvanstonTavern-1846Bold.eot');
+    src: local('Evanston Tavern 1846 Bold'), local('EvanstonTavern-1846Bold'),
+        url('/assets/fonts/EvanstonTavern-1846Bold.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/EvanstonTavern-1846Bold.woff2') format('woff2'),
+        url('/assets/fonts/EvanstonTavern-1846Bold.woff') format('woff'),
+        url('/assets/fonts/EvanstonTavern-1846Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
