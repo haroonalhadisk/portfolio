@@ -4,10 +4,22 @@
 .d-flex{
     display: flex;
 }
+.align-items-center{
+    align-items: center;
+}
+.justify-content-center{
+    justify-content: center;
+}
+.ccol-5, .ccol-10, .ccol-25, .ccol-30, .ccol-40, .ccol-60, .ccol-75, .ccol-90, .ccol-100{
+    box-sizing: border-box;
+}
 .crow{
     display: flex;
     width: 100%;
     flex-wrap: wrap;
+}
+.ccol-5{
+    width: 5%;
 }
 .ccol-25{
     width: 25%;
