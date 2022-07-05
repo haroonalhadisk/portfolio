@@ -1,10 +1,35 @@
+.flex-nowrap{
+    flex-wrap: nowrap;
+}
+.d-flex{
+    display: flex;
+}
 .crow{
     display: flex;
     width: 100%;
+    flex-wrap: wrap;
 }
 .ccol-25{
     width: 25%;
 }
 .ccol-75{
     width: 75%;
+}
+.cw-30,.ccol-30{
+    width: 30%;
+}
+.cw-100,.ccol-100{
+    width: 100%;
+}
+.ccol-60{
+    width: 60%;
+}
+.ccol-40{
+    width: 40%;
+}
+.ccol-10{
+    width: 10%;
+}
+.ccol-90{
+    width: 90%;
 }
