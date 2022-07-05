@@ -1,0 +1,11 @@
+@keyframes bg_aminanim {
+    0%{background: var(--primary);}
+    1%{background: var(--background);}
+    30%{background: var(--primary);}
+    40%{background: var(--background);}
+    60%{background: var(--primary);}
+    80%{background: var(--background);}
+
+    90%{background: var(--background);}
+    100%{background: var(--primary);}
+}
