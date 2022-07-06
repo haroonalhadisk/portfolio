@@ -48,3 +48,12 @@
 .ccol-90{
     width: 90%;
 }
+
+@media (max-width:768px) {
+    .tablet-ccol-100{
+        width: 100%;
+    }
+    .tablet-flex-wrap{
+        flex-direction: column;
+    }
+}

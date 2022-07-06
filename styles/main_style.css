@@ -106,25 +106,36 @@ html,body{
     max-height: 1000px;
     cursor: pointer;
 }
-.name-header :not(.items-box-c:hover) .yellow-block{
+.name-header .scroll-container-topics :not(.items-box-c:hover) .yellow-block{
     max-height: 0;
     overflow: hidden;
 }
-.name-header :not(.items-box-c:hover) .yellow-block .vertical-tex{
+.name-header .scroll-container-topics :not(.items-box-c:hover) .yellow-block .vertical-tex{
     max-height: 0;
     padding: 0;
     overflow: hidden;
 }
 
-.name-header :not(.items-box-c:hover) .yellow-block .yellow-block-y{
+.name-header .scroll-container-topics :not(.items-box-c:hover) .yellow-block .yellow-block-y{
     max-width: 0;
     padding: 0;
     overflow: hidden;
 }
-.name-header :not(.items-box-c:hover) .yellow-block .skill-box>div {
+.name-header .scroll-container-topics :not(.items-box-c:hover) .yellow-block .skill-box>div {
     transform: scaley(0);
 }
-
+.scroll-container-topics{
+    overflow-y: scroll;
+    max-height: 78vh;
+}
+.scroll-container-topics::-webkit-scrollbar{
+    background: var(--background);
+    width: 5px;
+    border-radius: 50px;
+}
+.scroll-container-topics::-webkit-scrollbar-thumb{
+    background: var(--faded-line);
+}
 .side_header{
     /* border: solid 1px var(--secondary); */
     min-height: calc(100vh - 2rem);
@@ -133,7 +144,7 @@ html,body{
     margin-left: 1%;
     max-width: 28%;
     position: relative;
-    max-height: fit-content;
+    max-height: calc(100vh - 100px);
 }
 .side_header .border-float-box{
     width: 25vh;
@@ -156,8 +167,7 @@ html,body{
     border-bottom: solid 1px var(--faded-line);
 }
 .side_header .name-header {
-    max-height: 78vh;
-    overflow-y: scroll;
+    /* overflow-y: scroll; */
 }
 .side_header .name-header::-webkit-scrollbar{
     width: 5px;
