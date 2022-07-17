@@ -384,3 +384,22 @@ html,body{
     color: white;
 }
 /* folder html css */
+
+/* head css */
+iframe.spline_head {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+a.spline-watermark {
+    display: none !important;
+}
+.spline_blocker{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 50px;
+    height: 50px;
+    background: #616d91;
+}
+/* head css */
